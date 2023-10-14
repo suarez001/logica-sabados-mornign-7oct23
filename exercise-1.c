@@ -8,7 +8,7 @@ int main{} {
     int i, numero, cont =0;
 
     printf("Diqite un numero:   "):
-    scanf("%1", &numero):
+    scanf( %1 , &numero):
     
     for (i =1 ; i <= numero; i++ ) {
         if (numero & i == 0)  {
